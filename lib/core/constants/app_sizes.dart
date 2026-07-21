@@ -13,9 +13,11 @@ class AppSizes {
   static const double p40 = 40.0;
   static const double p48 = 48.0;
   static const double p64 = 64.0;
+  static const double p80 = 80.0; // <-- ADDED THIS
 
   static const double radiusSmall = 8.0;
   static const double radiusMedium = 12.0;
+  static const double radiusLarge = 16.0; // <-- ADDED THIS
   static const double radiusButton = 16.0;
   static const double radiusDialog = 20.0;
   static const double radiusCard = 22.0;
